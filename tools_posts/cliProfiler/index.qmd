@@ -1,26 +1,21 @@
 ---
 title: "cliProfiler"
-format: html
-editor: visual
+description: "An easy and fast way to visualize and profile the high-throughput IP data. This package generates the meta gene profile and other profiles. These profiles could provide valuable information for understanding the IP experiment results."
+author: "Mirko Brüggemann"
+date: "2023-03-01"
+image: diff_icon.png
+draft: false
+categories:
+  - package development
+  - software
+  - Bioconductor
+  - R
+  - iCLIP
+  - Binding sites
+  - RBP
 ---
 
-## Quarto
+## The Differential binding package extension
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+![](./diff.png){width="806"}
 
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
