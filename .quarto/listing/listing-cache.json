@@ -1,0 +1,10 @@
+{
+  "listingMap": {
+    "projects.qmd": [
+      "project_posts/**/index.qmd"
+    ],
+    "tools.qmd": [
+      "tools_posts/**/index.qmd"
+    ]
+  }
+}

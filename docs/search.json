@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Zarnack Group",
+    "section": "",
+    "text": "About me\nI am a bioinformatician and dedicated scientist interested in (post-) transcriptional RNA regulation and cancer biology. My passion is the visualization and integration of high-throughput data. My professional goal is to analyze findings from multiple perspectives and angles, with the aim to positively impact patients’ lives.\n\n\n\nExperience\nPostdoctoral researcher (2021-present) | Buchmann Institute for Molecular Life Sciences | Goethe University Frankfurt\nPhD Student (2017-2021) | Buchmann Institute for Molecular Life Sciences | Goethe University Frankfurt\n\n\n\nEducation\nPhD in Bioinformatics (2021) | Buchmann Institute for Molecular Life Sciences | Goethe University Frankfurt\nMS in Bioinformatics (2016) | Institute for Cell Biology and Neurosciences | Goethe University Frankfurt\nBS in Bioinformatics (2013) | Institute for Cell Biology and Neurosciences | Goethe University Frankfurt"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Publications",
+    "section": "",
+    "text": "I’ve used my\nI am a postdoctoral Researcher at the Buchmann Institute for Molecular Life Sciences in the Computational RNA Biology group headed by Dr. Kathi Zarnack."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "The Zarnack Group",
+    "section": "",
+    "text": "SRSF6 poison cassette exon splicing as hypoxia response\n\n\n\n\n\n\n\nSRSF6\n\n\nHypoxia\n\n\nAlternative splicing\n\n\nBinding motif\n\n\nBinding sites\n\n\nRNA-Seq\n\n\niCLIP\n\n\nRBP\n\n\n\n\nPoison cassette exon splicing of SRSF6 regulates nuclear speckle dispersal and the response to hypoxia\n\n\n\n\n\n\nJan 9, 2023\n\n\nMirko Brüggemann\n\n\n\n\n\n\n  \n\n\n\n\nProstaglandin E2 Signaling in Cancer-Associated Fibroblasts\n\n\n\n\n\n\n\nCancer\n\n\nCancer-associated fibroblasts\n\n\nProstaglandin\n\n\nSurvival analysis\n\n\nRNA-Seq\n\n\nDifferential expression\n\n\nTCGA\n\n\n\n\nDisruption of Prostaglandin E2 Signaling in Cancer-Associated Fibroblasts Limits Mammary Carcinoma Growth but Promotes Metastasis\n\n\n\n\n\n\nApr 1, 2022\n\n\nMirko Brüggemann\n\n\n\n\n\n\n  \n\n\n\n\nSRSF6 positioning determines the splicing fate in human pancreatic β-cells\n\n\n\n\n\n\n\nSRSF6\n\n\nDiabetes\n\n\nAlternative splicing\n\n\nDifferential expression\n\n\nBinding motif\n\n\nBinding sites\n\n\nRNA-Seq\n\n\niCLIP\n\n\nRBP\n\n\n\n\nThe RNA-binding profile of the splicing factor SRSF6 in immortalized human pancreatic β-cells\n\n\n\n\n\n\nDec 29, 2020\n\n\nMirko Brüggemann\n\n\n\n\n\n\n  \n\n\n\n\nRibosome-associated quality control by MKRN1\n\n\n\n\n\n\n\nRibosomal profiling\n\n\nUbiquitylation\n\n\niCLIP\n\n\nBinding motif\n\n\nBinding sites\n\n\ntranslational regulation\n\n\n\n\nThe RNA-binding ubiquitin ligase MKRN1 functions in ribosome-associated quality control of poly(A) translation\n\n\n\n\n\n\nOct 22, 2019\n\n\nMirko Brüggemann\n\n\n\n\n\n\n  \n\n\n\n\nPhenotypic Plasticity of Fibroblasts during Mammary Carcinoma Development\n\n\n\n\n\n\n\nCancer\n\n\nCancer-associated fibroblasts\n\n\nSurvival analysis\n\n\nMachine learning\n\n\nGene signature\n\n\nRNA-Seq\n\n\nDifferential expression\n\n\nTCGA\n\n\n\n\nCancer-associated fibroblasts populations change over time during mammary carcinoma tumor development\n\n\n\n\n\n\nSep 9, 2019\n\n\nMirko Brüggemann\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "2023\nde Oliveira Freitas Machado, C., Schafranek, M., Brüggemann, M., Hernández Cañás, M. C., Keller, M., Di Liddo, A., ... & Müller-McNicoll, M. (2023). Poison cassette exon splicing of SRSF6 regulates nuclear speckle dispersal and the response to hypoxia. Nucleic Acids Research.\n\n\n2022\nElwakeel, E., Brüggemann, M., Wagih, J., Lityagina, O., Elewa, M. A., Han, Y., ... & Weigert, A. (2022). Disruption of prostaglandin E2 signaling in cancer-associated fibroblasts limits mammary carcinoma growth but promotes metastasis. Cancer Research, 82(7), 1380-1395.\n\n\n2021\nBrüggemann, M. (2021). Computational studies on RNA processing in higher eukaryotes (Doctoral dissertation, Johann Wolfgang Goethe-Universität Frankfurt am Main).\n\n\n2020\nBusch, A., Brüggemann, M., Ebersberger, S., & Zarnack, K. (2020). iCLIP data analysis: A complete pipeline from sequencing reads to RBP binding sites. Methods, 178, 49-62.\nAlvelos, M. I., Brüggemann, M., Sutandy, F. R., Juan-Mateu, J., Colli, M. L., Busch, A., ... & Eizirik, D. L. (2021). The RNA-binding profile of the splicing factor SRSF6 in immortalized human pancreatic β-cells. Life Science Alliance, 4(3).\nDold, A., Han, H., Liu, N., Hildebrandt, A., Brüggemann, M., Rücklé, C., ... & Lasko, P. (2020). Makorin 1 controls embryonic patterning by alleviating Bruno1-mediated repression of oskar translation. PLoS genetics, 16(1), e1008581.\n\n2019\nElwakeel, E., Brüggemann, M., Fink, A. F., Schulz, M. H., Schmid, T., Savai, R., ... & Weigert, A. (2019). Phenotypic plasticity of fibroblasts during mammary carcinoma development. International Journal of Molecular Sciences, 20(18), 4438.\nHildebrandt, A., Brüggemann, M., Rücklé, C., Boerner, S., Heidelberger, J. B., Busch, A., ... & Beli, P. (2019). The RNA-binding ubiquitin ligase MKRN1 functions in ribosome-associated quality control of poly (A) translation. Genome biology, 20, 1-20."
+  },
+  {
+    "objectID": "projects.html#research-topics",
+    "href": "projects.html#research-topics",
+    "title": "Dr. Mirko Brüggemann",
+    "section": "Research Topics",
+    "text": "Research Topics\n\nClinical Topics\n\nDepression – We are interested in improving the assessment and treatment of depression. In particular, we are interested in (a) developing computational depression screening tools that can be deployed in under-served (e.g., remote or low resource) communities, (b) studying the connections between mood, depression, and interpersonal functioning, and (c) understanding the psychotherapeutic processes that contribute to recovery from depression.\nPosttraumatic Stress Disorder – We are interested in how individuals who survive traumatic events respond to, make sense of, and communicate about their experiences. Toward this end, we collect and analyze trauma narratives and impact statements from patients seeking treatment for PTSD and from community members who experienced traumatic events but did not develop PTSD. We are using observational methods to measure and analyze the patterns of behaviors, emotions, and cognitions evident in these narratives and statements. Our goals are to improve PTSD assessment and to deepen clinical understanding of the psychological processes that contribute to the development, maintenance, and recovery from PTSD.\nClinical decision-making – We are interested in developing tools to support the clinical decision-making of mental healthcare workers such as (a) determining the optimal time to discharge psychiatric inpatients from the hospital, and (b) estimating patients’ risk of dropping out of psychotherapy early. This topic is deeply connected to the methodology of predictive machine learning (see below).\nStructure of psychopathology – We are interested in advancing scientific knowledge about the ways in which psychiatric signs and symptoms organize into transdiagnostic dimensions or “spectra.” As part of this effort, we are working on creating an R package for the “Bass-Ackwards” factor analytical technique (Goldberg, 2006; Forbes, 2020). We are also interested in disentangling measures of dysfunction and traits/symptoms.\nBehavioral synchrony – We are interested in studying the emergence of behavioral synchronization between members of interacting dyads (e.g., therapists and patients or parents and children). We are applying this to studying the development of the working alliance (i.e., therapeutic relationship) during psychotherapy for depression and the communication dynamics between parents and children at high risk of suicide. As part of this effort, we are working on creating an R package for the windowed cross-correlation technique for quantifying behavioral synchrony (Boker et al., 2002).\n\n\n\nMethodological Topics\n\nInterrater reliability statistics – We are interested in developing statistical techniques that quantify the degree of reliability (e.g., agreement or consistency) between raters in observational and judgment studies. As part of this effort, we are working on finalizing the agreement R package for chance-adjusted indexes of categorical agreement and are working on integrating insights and tools from Bayesian statistics and generalizability theory in the varde R pacakge.\nCircumplex statistics – We are interested in developing statistical techniques that leverage the circular structure of circumplex models of affect and interpersonal functioning. As part of this effort, we are working on expanding the circumplex R package with additional functionality and developing new extensions of the Structural Summary Method (Gurtman, 1992; Zimmermann & Wright, 2017) that accommodate multilevel (e.g., clustered and longitudinal) data and latent variables.\nObservational methods – We are interested in measuring behavior as it actually occurs using human and algorithmic observers. Toward this end, we are working on creating databases of observational records (e.g., videos) to share with other researchers and are developing software and educational resources to aid in the collection and analysis of observational data.\nApplied machine learning – We are interested in applying recent advances in predictive modeling techniques to the study of human behavior (e.g., to aid in clinical decision-making and observational measurement). We are particularly interested in model evaluation, explanation, and comparison techniques that combine insights and techniques from statistical inference and machine learning.\nBayesian multilevel modeling – We are interested in leveraging the wonderful flexibility of Bayesian mixed effects models to answer applied questions about multilevel (e.g., clustered or longitudinal) data. We are also interested in adapting this framework to improve estimation in other topics (e.g., inter-rater reliability statistics, circumplex statistics, and comparing machine learning models)."
+  },
+  {
+    "objectID": "projects.html#research-funding",
+    "href": "projects.html#research-funding",
+    "title": "Dr. Mirko Brüggemann",
+    "section": "Research Funding",
+    "text": "Research Funding\n\nCurrent Funding\n\n“Novel Scalable Mental Health Screening Procedures on Ubiquitous Sensing Devices”\n\nGift, Google LLC\nGirard (PI)\n11/2022\n\n“Context-Adaptive Multimodal Informatics for Psychiatric Discharge Planning”\n\nR01, National Institutes of Health (NIMH)\nBaker (PI), Co-Is: Girard, Morency\n04/2021 – 02/2025\n\n“Multimodal Dynamics of Parent-Child Interactions and Suicide Risk”\n\nR21, National Institutes of Health (NIMH)\nBurke (PI), Co-Is: Girard, Li, Morency\n09/2022 – 07/2023\n\n\n\n\nCompleted Funding\n\n“Towards Automated Multimodal Behavioral Screening for Depression”\n\nPittsburgh Health Data Alliance (CMLH)\nMorency (PI), Co-I: Girard\n03/2019 – 02/2021\n\n“Dyadic Behavior Informatics for Psychotherapy Process and Outcome”\n\nNational Science Foundation (IIS, SCH)\nCohn, Morency, Swartz (PIs), Co-Is: Bylsma, Fournier, Girard\n09/2020 – 08/2022\n\n\n\n\nPending Funding\n\n“Patient-focused Prediction of Dropout from PTSD Treatment”\n\nR21, National Institutes of Health (NIMH)\nGirard (PI), Co-I: Sprunger\nNot Scored, Currently in Revision\n\n“Naturalistic Probe for Dynamic Assessment of Emotional Reactivity”\n\nR01, National Institutes of Health (NIMH)\nLiebenthal (PI), Co-Is: Girard, Tie\nCurrently in Review\n\n“Dyadic Communication Dynamics in Hybrid In-Person/Remote Psychotherapy”\n\nR01, National Institutes of Health (NIMH)\nGirard (PI), Co-Is: Bylsma, Cohn, Ilardi, Morency, Swartz\nScored 39th Percentile, Currently in Revision (to resubmit in March)"
+  },
+  {
+    "objectID": "projects.html#research-framework",
+    "href": "projects.html#research-framework",
+    "title": "Dr. Mirko Brüggemann",
+    "section": "Research Framework",
+    "text": "Research Framework\n\nAffective Communication\nThe substantive focus of our work is on how humans communicate important affective (e.g., emotional) information to one another. The four pillars of this work are on structure, context, dynamics, and functionality. In studying the structure of affective communication, we investigate the production and perception of visual behaviors (e.g., facial expressions, gestures, and body motion), vocal behaviors (e.g., pitch, loudness, and timbre), and verbal behaviors (e.g., syntax, semantics, and discourse). In studying the context of affective communication, we investigate the influence of the immediate and distal sociocultural environment. In studying the dynamics of affective communication, we investigate the unfolding of emotion, behavior, and the interpersonal field over time. Finally, in studying the functionality of affective communication, we investigate its relationships with mental health, pathology, and recovery.\n\n\n\nAffective Computing\nSupporting the four pillars of substantive research described above is a methodological foundation of computer and data science. The three main aspects of this methodological work are statistics, computing, and design. The statistical aspects largely focus on developing and applying Bayesian, multilevel, and latent variable models to test hypotheses about interpretable parameters or validate the other aspects. The computational aspects largely focus on building tools to collect large amounts of data and then using machine learning to process that data and make predictions. Finally, the design aspects largely focus on developing software to collect, process, and analyze research data as well as websites to educate researchers on methodological and substantive topics."
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Dr. Mirko Brüggemann",
+    "section": "",
+    "text": "Home\n    Research"
+  },
+  {
+    "objectID": "Research.html#research-topics",
+    "href": "Research.html#research-topics",
+    "title": "Dr. Mirko Brüggemann",
+    "section": "Research Topics",
+    "text": "Research Topics\n\nClinical Topics\n\nDepression – We are interested in improving the assessment and treatment of depression. In particular, we are interested in (a) developing computational depression screening tools that can be deployed in under-served (e.g., remote or low resource) communities, (b) studying the connections between mood, depression, and interpersonal functioning, and (c) understanding the psychotherapeutic processes that contribute to recovery from depression.\nPosttraumatic Stress Disorder – We are interested in how individuals who survive traumatic events respond to, make sense of, and communicate about their experiences. Toward this end, we collect and analyze trauma narratives and impact statements from patients seeking treatment for PTSD and from community members who experienced traumatic events but did not develop PTSD. We are using observational methods to measure and analyze the patterns of behaviors, emotions, and cognitions evident in these narratives and statements. Our goals are to improve PTSD assessment and to deepen clinical understanding of the psychological processes that contribute to the development, maintenance, and recovery from PTSD.\nClinical decision-making – We are interested in developing tools to support the clinical decision-making of mental healthcare workers such as (a) determining the optimal time to discharge psychiatric inpatients from the hospital, and (b) estimating patients’ risk of dropping out of psychotherapy early. This topic is deeply connected to the methodology of predictive machine learning (see below).\nStructure of psychopathology – We are interested in advancing scientific knowledge about the ways in which psychiatric signs and symptoms organize into transdiagnostic dimensions or “spectra.” As part of this effort, we are working on creating an R package for the “Bass-Ackwards” factor analytical technique (Goldberg, 2006; Forbes, 2020). We are also interested in disentangling measures of dysfunction and traits/symptoms.\nBehavioral synchrony – We are interested in studying the emergence of behavioral synchronization between members of interacting dyads (e.g., therapists and patients or parents and children). We are applying this to studying the development of the working alliance (i.e., therapeutic relationship) during psychotherapy for depression and the communication dynamics between parents and children at high risk of suicide. As part of this effort, we are working on creating an R package for the windowed cross-correlation technique for quantifying behavioral synchrony (Boker et al., 2002).\n\n\n\nMethodological Topics\n\nInterrater reliability statistics – We are interested in developing statistical techniques that quantify the degree of reliability (e.g., agreement or consistency) between raters in observational and judgment studies. As part of this effort, we are working on finalizing the agreement R package for chance-adjusted indexes of categorical agreement and are working on integrating insights and tools from Bayesian statistics and generalizability theory in the varde R pacakge.\nCircumplex statistics – We are interested in developing statistical techniques that leverage the circular structure of circumplex models of affect and interpersonal functioning. As part of this effort, we are working on expanding the circumplex R package with additional functionality and developing new extensions of the Structural Summary Method (Gurtman, 1992; Zimmermann & Wright, 2017) that accommodate multilevel (e.g., clustered and longitudinal) data and latent variables.\nObservational methods – We are interested in measuring behavior as it actually occurs using human and algorithmic observers. Toward this end, we are working on creating databases of observational records (e.g., videos) to share with other researchers and are developing software and educational resources to aid in the collection and analysis of observational data.\nApplied machine learning – We are interested in applying recent advances in predictive modeling techniques to the study of human behavior (e.g., to aid in clinical decision-making and observational measurement). We are particularly interested in model evaluation, explanation, and comparison techniques that combine insights and techniques from statistical inference and machine learning.\nBayesian multilevel modeling – We are interested in leveraging the wonderful flexibility of Bayesian mixed effects models to answer applied questions about multilevel (e.g., clustered or longitudinal) data. We are also interested in adapting this framework to improve estimation in other topics (e.g., inter-rater reliability statistics, circumplex statistics, and comparing machine learning models)."
+  },
+  {
+    "objectID": "Research.html#research-funding",
+    "href": "Research.html#research-funding",
+    "title": "Dr. Mirko Brüggemann",
+    "section": "Research Funding",
+    "text": "Research Funding\n\nCurrent Funding\n\n“Novel Scalable Mental Health Screening Procedures on Ubiquitous Sensing Devices”\n\nGift, Google LLC\nGirard (PI)\n11/2022\n\n“Context-Adaptive Multimodal Informatics for Psychiatric Discharge Planning”\n\nR01, National Institutes of Health (NIMH)\nBaker (PI), Co-Is: Girard, Morency\n04/2021 – 02/2025\n\n“Multimodal Dynamics of Parent-Child Interactions and Suicide Risk”\n\nR21, National Institutes of Health (NIMH)\nBurke (PI), Co-Is: Girard, Li, Morency\n09/2022 – 07/2023\n\n\n\n\nCompleted Funding\n\n“Towards Automated Multimodal Behavioral Screening for Depression”\n\nPittsburgh Health Data Alliance (CMLH)\nMorency (PI), Co-I: Girard\n03/2019 – 02/2021\n\n“Dyadic Behavior Informatics for Psychotherapy Process and Outcome”\n\nNational Science Foundation (IIS, SCH)\nCohn, Morency, Swartz (PIs), Co-Is: Bylsma, Fournier, Girard\n09/2020 – 08/2022\n\n\n\n\nPending Funding\n\n“Patient-focused Prediction of Dropout from PTSD Treatment”\n\nR21, National Institutes of Health (NIMH)\nGirard (PI), Co-I: Sprunger\nNot Scored, Currently in Revision\n\n“Naturalistic Probe for Dynamic Assessment of Emotional Reactivity”\n\nR01, National Institutes of Health (NIMH)\nLiebenthal (PI), Co-Is: Girard, Tie\nCurrently in Review\n\n“Dyadic Communication Dynamics in Hybrid In-Person/Remote Psychotherapy”\n\nR01, National Institutes of Health (NIMH)\nGirard (PI), Co-Is: Bylsma, Cohn, Ilardi, Morency, Swartz\nScored 39th Percentile, Currently in Revision (to resubmit in March)"
+  },
+  {
+    "objectID": "Research.html#research-framework",
+    "href": "Research.html#research-framework",
+    "title": "Dr. Mirko Brüggemann",
+    "section": "Research Framework",
+    "text": "Research Framework\n\nAffective Communication\nThe substantive focus of our work is on how humans communicate important affective (e.g., emotional) information to one another. The four pillars of this work are on structure, context, dynamics, and functionality. In studying the structure of affective communication, we investigate the production and perception of visual behaviors (e.g., facial expressions, gestures, and body motion), vocal behaviors (e.g., pitch, loudness, and timbre), and verbal behaviors (e.g., syntax, semantics, and discourse). In studying the context of affective communication, we investigate the influence of the immediate and distal sociocultural environment. In studying the dynamics of affective communication, we investigate the unfolding of emotion, behavior, and the interpersonal field over time. Finally, in studying the functionality of affective communication, we investigate its relationships with mental health, pathology, and recovery.\n\n\n\nAffective Computing\nSupporting the four pillars of substantive research described above is a methodological foundation of computer and data science. The three main aspects of this methodological work are statistics, computing, and design. The statistical aspects largely focus on developing and applying Bayesian, multilevel, and latent variable models to test hypotheses about interpretable parameters or validate the other aspects. The computational aspects largely focus on building tools to collect large amounts of data and then using machine learning to process that data and make predictions. Finally, the design aspects largely focus on developing software to collect, process, and analyze research data as well as websites to educate researchers on methodological and substantive topics."
+  },
+  {
+    "objectID": "posts/bindingsitefinder/bindingsitefinder.html",
+    "href": "posts/bindingsitefinder/bindingsitefinder.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "Test for a project"
+  },
+  {
+    "objectID": "posts/bindingsitefinder/index.html",
+    "href": "posts/bindingsitefinder/index.html",
+    "title": "BindingSiteFinder",
+    "section": "",
+    "text": "Precise knowledge on the binding sites of an RNA-binding protein (RBP) is key to understand (post-) transcriptional regulatory processes.\nThe BindingSiteFinder software package provides a full workflow for RBP binding site definition. The package provides function as well as rich visualizations and is well integrated in state-of-the-art and widely used Bioconductor classes, such as GenomicRanges and SummarizedExperiments. For details please see the vignette."
+  },
+  {
+    "objectID": "posts/differentialbinding/index.html",
+    "href": "posts/differentialbinding/index.html",
+    "title": "Differential binding",
+    "section": "",
+    "text": "Understanding condition specific affinity changes of a RNA-binding protein (RBP) to a known binding site is the next level of understanding (post-) transcriptional regulartory processes in more detail.\nThe DifferentialBinding module will extend the BindingSiteFinder by various new features and functionalities, suited to identify RBP specific binding site changes in a transcriptome wide fashion. The extention is soon to be released and can be found on the BindingSiteFinder Bioconductor page."
+  },
+  {
+    "objectID": "posts/srsf6hypoxia/index.html",
+    "href": "posts/srsf6hypoxia/index.html",
+    "title": "SRSF6 poison cassette exon splicing as hypoxia response",
+    "section": "",
+    "text": "Hypoxia induces massive changes in alternative splicing (AS) to adapt cells to the lack of oxygen. In this project SRSF6 was found to be a key factor in the AS response to hypoxia. A strong reduction in SRSF6 levels in acute hypoxia led to exon skipping and triggered nuclear speckle dispersal as a mechanism for the cell to reprogram the gene expression profile. We found this mechanism to be active in various cancer types and further propose a tumor suppressor function.\nThe full manuscript can be found at Nucleic Acids Research."
+  },
+  {
+    "objectID": "posts/pge2signaling/index.html",
+    "href": "posts/pge2signaling/index.html",
+    "title": "Prostaglandin E2 Signaling in Cancer-Associated Fibroblasts",
+    "section": "",
+    "text": "The activation and differentiation of cancer-associated fibroblasts (CAF) are involved in tumor progression. Here, we showed that the tumor-promoting lipid mediator prostaglandin E2 (PGE2) plays a paradoxical role in CAF activation and tumor progression. The inflammatory lipid prostaglandin E2 suppresses cancer-associated fibroblast expansion and activation limited primary mammary tumor growth while promoting metastasis. These data characterized in this project suggests a new pathway of regulating inflammatory CAF activation, which affects breast cancer progression.\nThe full manuscript can be found at Cancer Research."
+  },
+  {
+    "objectID": "posts/cafs/index.html",
+    "href": "posts/cafs/index.html",
+    "title": "Phenotypic Plasticity of Fibroblasts during Mammary Carcinoma Development",
+    "section": "",
+    "text": "Cancer-associated fibroblasts (CAFs) in the tumor microenvironment contribute to all stages of tumorigenesis and are usually considered to be tumor-promoting cells. In this project we found a remarkable degree of CAF herterogenity which changed during mammary cancer development. We created whole transcriptome longitudinal data on CAF development from early- and late-stage tumors and observed a shift in fibroblast populations over time, which was negatively associated with patient survival. We then trained a random forest classification model to compute a gene signature that had predicive power in bulk tumor patient samples.\nThe full manuscript can be found at International Journal of Molecular Sciences."
+  },
+  {
+    "objectID": "posts/srsf6diabetes/index.html",
+    "href": "posts/srsf6diabetes/index.html",
+    "title": "SRSF6 positioning determines the splicing fate in human pancreatic β-cells",
+    "section": "",
+    "text": "In pancreatic β-cells SRSF6 down-regulation promotes β-cell demise through splicing dysregulation of central genes for β-cells function and survival. In this project we characterized the SRSF6 binding landscape in human pancreatic β-cells and identified a purine-rich SRSF6 consensus motif. We also observed, that the positioning of SRSF6 determined the splicing fate by either promoting exon skipping or exon inclusion. Our results also show that such splicing changes can be modulated by the use of antisense oligonucleotides.\nThe full manuscript can be found at Life Science Alliance."
+  },
+  {
+    "objectID": "posts/mkrn/index.html",
+    "href": "posts/mkrn/index.html",
+    "title": "Ribosome-associated quality control by MKRN1",
+    "section": "",
+    "text": "Translating ribosomes that encounter poly(A) sequences are terminally stalled, as quality control mechanism, followed by ribosome recycling and decay of the truncated nascent polypeptide via ribosome-associated quality control. In this project we demonstrated that the conserved RNA-binding E3 ubiquitin ligase Makorin Ring Finger Protein 1 (MKRN1) promotes ribosome stalling at poly(A) sequences during ribosome-associated quality control. We observed a direct interaction with the cytoplasmic poly(A)-binding protein (PABPC1) as well as precice position upstream of poly(A) tails in the mRNA.Thus we propose that MKRN1 mediates the recognition of poly(A) tails to prevent the production of erroneous proteins from prematurely polyadenylated transcripts, thereby maintaining proteome integrity.\nThe full manuscript can be found at Genome Biology."
+  },
+  {
+    "objectID": "posts/clipmethods/index.html",
+    "href": "posts/clipmethods/index.html",
+    "title": "A bioinformatics pipeline for iCLIP data analysis",
+    "section": "",
+    "text": "Precise knowledge on the binding sites of an RNA-binding protein (RBP) is key to understand (post-) transcriptional gene regulation. This information can be obtained from individual-nucleotide resolution UV crosslinking and immunoprecipitation (iCLIP) experiments. In this project we discribed the complete bioinformatic data analysis workflow to reliably detect RBP binding sites from iCLIP data. The workflow covers all steps from the initial quality control of the sequencing reads up to peak calling and quantification of RBP binding. For each tool, we explain the specific requirements for iCLIP data analysis and suggest optimized parameter settings.\nThe full manuscript can be found at Methods and an updated version of the binding site definition part is published as the R/ Bioconductor packge BindingSiteFinder Bioconductor page."
+  },
+  {
+    "objectID": "project_posts/cafs/index.html",
+    "href": "project_posts/cafs/index.html",
+    "title": "Phenotypic Plasticity of Fibroblasts during Mammary Carcinoma Development",
+    "section": "",
+    "text": "Cancer-associated fibroblasts (CAFs) in the tumor microenvironment contribute to all stages of tumorigenesis and are usually considered to be tumor-promoting cells. In this project we found a remarkable degree of CAF herterogenity which changed during mammary cancer development. We created whole transcriptome longitudinal data on CAF development from early- and late-stage tumors and observed a shift in fibroblast populations over time, which was negatively associated with patient survival. We then trained a random forest classification model to compute a gene signature that had predicive power in bulk tumor patient samples.\nThe full manuscript can be found at International Journal of Molecular Sciences."
+  },
+  {
+    "objectID": "project_posts/srsf6diabetes/index.html",
+    "href": "project_posts/srsf6diabetes/index.html",
+    "title": "SRSF6 positioning determines the splicing fate in human pancreatic β-cells",
+    "section": "",
+    "text": "In pancreatic β-cells SRSF6 down-regulation promotes β-cell demise through splicing dysregulation of central genes for β-cells function and survival. In this project we characterized the SRSF6 binding landscape in human pancreatic β-cells and identified a purine-rich SRSF6 consensus motif. We also observed, that the positioning of SRSF6 determined the splicing fate by either promoting exon skipping or exon inclusion. Our results also show that such splicing changes can be modulated by the use of antisense oligonucleotides.\nThe full manuscript can be found at Life Science Alliance."
+  },
+  {
+    "objectID": "project_posts/srsf6hypoxia/index.html",
+    "href": "project_posts/srsf6hypoxia/index.html",
+    "title": "SRSF6 poison cassette exon splicing as hypoxia response",
+    "section": "",
+    "text": "Hypoxia induces massive changes in alternative splicing (AS) to adapt cells to the lack of oxygen. In this project SRSF6 was found to be a key factor in the AS response to hypoxia. A strong reduction in SRSF6 levels in acute hypoxia led to exon skipping and triggered nuclear speckle dispersal as a mechanism for the cell to reprogram the gene expression profile. We found this mechanism to be active in various cancer types and further propose a tumor suppressor function.\nThe full manuscript can be found at Nucleic Acids Research."
+  },
+  {
+    "objectID": "project_posts/pge2signaling/index.html",
+    "href": "project_posts/pge2signaling/index.html",
+    "title": "Prostaglandin E2 Signaling in Cancer-Associated Fibroblasts",
+    "section": "",
+    "text": "The activation and differentiation of cancer-associated fibroblasts (CAF) are involved in tumor progression. Here, we showed that the tumor-promoting lipid mediator prostaglandin E2 (PGE2) plays a paradoxical role in CAF activation and tumor progression. The inflammatory lipid prostaglandin E2 suppresses cancer-associated fibroblast expansion and activation limited primary mammary tumor growth while promoting metastasis. These data characterized in this project suggests a new pathway of regulating inflammatory CAF activation, which affects breast cancer progression.\nThe full manuscript can be found at Cancer Research."
+  },
+  {
+    "objectID": "project_posts/mkrn/index.html",
+    "href": "project_posts/mkrn/index.html",
+    "title": "Ribosome-associated quality control by MKRN1",
+    "section": "",
+    "text": "Translating ribosomes that encounter poly(A) sequences are terminally stalled, as quality control mechanism, followed by ribosome recycling and decay of the truncated nascent polypeptide via ribosome-associated quality control. In this project we demonstrated that the conserved RNA-binding E3 ubiquitin ligase Makorin Ring Finger Protein 1 (MKRN1) promotes ribosome stalling at poly(A) sequences during ribosome-associated quality control. We observed a direct interaction with the cytoplasmic poly(A)-binding protein (PABPC1) as well as precice position upstream of poly(A) tails in the mRNA.Thus we propose that MKRN1 mediates the recognition of poly(A) tails to prevent the production of erroneous proteins from prematurely polyadenylated transcripts, thereby maintaining proteome integrity.\nThe full manuscript can be found at Genome Biology."
+  },
+  {
+    "objectID": "tools_posts/bindingsitefinder/index.html",
+    "href": "tools_posts/bindingsitefinder/index.html",
+    "title": "BindingSiteFinder",
+    "section": "",
+    "text": "Precise knowledge on the binding sites of an RNA-binding protein (RBP) is key to understand (post-) transcriptional regulatory processes.\nThe BindingSiteFinder software package provides a full workflow for RBP binding site definition. The package provides function as well as rich visualizations and is well integrated in state-of-the-art and widely used Bioconductor classes, such as GenomicRanges and SummarizedExperiments. For details please see the vignette."
+  },
+  {
+    "objectID": "tools_posts/clipmethods/index.html",
+    "href": "tools_posts/clipmethods/index.html",
+    "title": "A bioinformatics pipeline for iCLIP data analysis",
+    "section": "",
+    "text": "Precise knowledge on the binding sites of an RNA-binding protein (RBP) is key to understand (post-) transcriptional gene regulation. This information can be obtained from individual-nucleotide resolution UV crosslinking and immunoprecipitation (iCLIP) experiments. In this project we discribed the complete bioinformatic data analysis workflow to reliably detect RBP binding sites from iCLIP data. The workflow covers all steps from the initial quality control of the sequencing reads up to peak calling and quantification of RBP binding. For each tool, we explain the specific requirements for iCLIP data analysis and suggest optimized parameter settings.\nThe full manuscript can be found at Methods and an updated version of the binding site definition part is published as the R/ Bioconductor packge BindingSiteFinder Bioconductor page."
+  },
+  {
+    "objectID": "tools_posts/differentialbinding/index.html",
+    "href": "tools_posts/differentialbinding/index.html",
+    "title": "Differential binding",
+    "section": "",
+    "text": "Understanding condition specific affinity changes of a RNA-binding protein (RBP) to a known binding site is the next level of understanding (post-) transcriptional regulartory processes in more detail.\nThe DifferentialBinding module will extend the BindingSiteFinder by various new features and functionalities, suited to identify RBP specific binding site changes in a transcriptome wide fashion. The extention is soon to be released and can be found on the BindingSiteFinder Bioconductor page."
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "The Zarnack Group",
+    "section": "",
+    "text": "Differential binding\n\n\n\n\n\n\n\npackage development\n\n\nsoftware\n\n\nBioconductor\n\n\nR\n\n\niCLIP\n\n\nBinding sites\n\n\nRBP\n\n\n\n\nA BindingSiteFinder R/ Bioconductor software extention for RBP binding site regulation\n\n\n\n\n\n\nMar 1, 2023\n\n\nMirko Brüggemann\n\n\n\n\n\n\n  \n\n\n\n\nBindingSiteFinder\n\n\n\n\n\n\n\npackage development\n\n\nsoftware\n\n\nBioconductor\n\n\nR\n\n\niCLIP\n\n\nRBP\n\n\n\n\nAn R/ Bioconductor software package for RBP binding site definition\n\n\n\n\n\n\nOct 1, 2021\n\n\nMirko Brüggemann\n\n\n\n\n\n\n  \n\n\n\n\nA bioinformatics pipeline for iCLIP data analysis\n\n\n\n\n\n\n\npackage development\n\n\nsoftware\n\n\nBioconductor\n\n\nBinding sites\n\n\nR\n\n\niCLIP\n\n\nRBP\n\n\n\n\niCLIP data analysis: A complete pipeline from sequencing reads to RBP binding sites\n\n\n\n\n\n\nJun 1, 2020\n\n\nMirko Brüggemann\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "The Zarnack Group",
+    "section": "",
+    "text": "Haha"
+  }
+]

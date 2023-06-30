@@ -1,0 +1,9 @@
+---
+pagetitle: "Projects"
+toc: false
+listing:
+  contents: "project_posts/**/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+---

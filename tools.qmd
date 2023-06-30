@@ -1,0 +1,10 @@
+---
+pagetitle: "Tools"
+toc: false
+listing:
+  contents: "tools_posts/**/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+---
+

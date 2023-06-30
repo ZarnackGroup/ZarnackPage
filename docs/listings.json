@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/project_posts/srsf6hypoxia/index.html",
+      "/project_posts/pge2signaling/index.html",
+      "/project_posts/srsf6diabetes/index.html",
+      "/project_posts/mkrn/index.html",
+      "/project_posts/cafs/index.html"
+    ]
+  },
+  {
+    "listing": "/tools.html",
+    "items": [
+      "/tools_posts/differentialbinding/index.html",
+      "/tools_posts/bindingsitefinder/index.html",
+      "/tools_posts/clipmethods/index.html"
+    ]
+  }
+]
