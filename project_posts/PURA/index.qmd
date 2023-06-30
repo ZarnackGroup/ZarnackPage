@@ -1,5 +1,5 @@
 ---
-title: "SRSF6 positioning determines the splicing fate in human pancreatic β-cells"
+title: "Understanding the function of PURA in healthy organisms and in the context of PURA Syndrome."
 description: "The RNA-binding profile of the splicing factor SRSF6 in immortalized human pancreatic β-cells"
 author: "Mirko Brüggemann"
 date: "2020-12-29"
